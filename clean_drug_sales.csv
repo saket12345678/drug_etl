@@ -1,4 +1,4 @@
-drug name,manufacturer,dosage form,strength,package size,units sold,revenue,sale date,region,sales representative,customer type
+drug_name,manufacturer,dosage_form,strength,package_size,units_sold,revenue,sale_date,region,sales_representative,customer_type
 Drug B,Company W,Tablet,100 mg/ml,50 g,1500,$43833,2024-02-07,South America,Susan Hernandez,Clinics
 Drug B,Company X,Cream,500 mg,100 ml,1194,$48717,2023-08-08,South America,Jackie Wagner,Clinics
 Drug E,Company X,Capsule,50 mg,60,618,$8744,2024-06-15,Africa,Mariah Mccoy,Hospitals
